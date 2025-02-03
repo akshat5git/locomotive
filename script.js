@@ -43,7 +43,6 @@ allh1.forEach(function(el){
       })
       el.innerHTML = cluttertext;
     });
-
 gsap.to("#page3 h1 span" , {
     color :"rgb(255, 217, 0)",
     stagger :.6,
